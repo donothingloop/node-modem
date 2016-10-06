@@ -1,6 +1,6 @@
 {
-  "name": "node-modem",
-  "version": "0.1.8",
+  "name": "node-modem-linux",
+  "version": "0.2.0",
   "description": "a modem manager.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brugnara/node-modem.git"
+    "url": "https://github.com/donothingloop/node-modem.git"
   },
   "keywords": [
     "modem",
@@ -17,12 +17,12 @@
     "serialport",
     "pdu"
   ],
-  "author": "Daniele Brugnara",
+  "author": "donothingloop",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brugnara/node-modem/issues"
+    "url": "https://github.com/donothingloop/node-modem/issues"
   },
-  "homepage": "https://github.com/brugnara/node-modem",
+  "homepage": "https://github.com/donothingloop/node-modem",
   "dependencies": {
     "async": "0.9.0",
     "once": "1.3.1",

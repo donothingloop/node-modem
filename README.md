@@ -1,5 +1,7 @@
-Modem
+Modem (with updated serialport module)
 =====
+
+**The original module uses an old version of serialport that may not compile on linux.**
 
 With this module, you can enqueue commands via serial. It's main scope is to operate a modem (send sms, do a voice call,
 ...)

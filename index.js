@@ -1,5 +1,4 @@
-var serialport = require('serialport');
-var SerialPort = serialport.SerialPort;
+var SerialPort = require('serialport');
 var async = require('async');
 var once = require('once');
 var EE = require('events').EventEmitter;
